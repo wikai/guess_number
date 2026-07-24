@@ -13,6 +13,6 @@ while True:
     elif guess > number:
         print('Ваше число больше загаданного')
     
-    else:
+    elif:
         break
 print('Вы угадали!')
